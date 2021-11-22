@@ -8,7 +8,7 @@ setuptools.setup(
     version="1.0",
     author="Github73840134 (Pytech Software)",
     author_email="",
-    description="A small example package",
+    description="Timer is module ported from micropython's machine.Timer and adapted to work with Python",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Github73840134/Timer",
